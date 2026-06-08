@@ -18,13 +18,13 @@
 
 ## 🌐 Live Demo
 
-🔗 **[https://currency-convertor-omega-wine.vercel.app](https://currency-convertor-omega-wine.vercel.app)**
+🔗 **[https://currency-convertorreact.vercel.app/](https://currency-convertorreact.vercel.app/)**
 
 ---
 
 ## 📸 Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/Sonali1502-Sona/currency_convertor/main/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/Sonali1502-Sona/currency_convertor/main/screenshot.png)
 
 ---
 
